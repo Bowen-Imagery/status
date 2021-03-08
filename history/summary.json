@@ -22,17 +22,17 @@
     "url": "https://bowenimagery.com/",
     "icon": "https://favicons.githubusercontent.com/bowenimagery.com",
     "slug": "bowen-imagery",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 296,
-    "timeWeek": 374,
-    "timeMonth": 416,
-    "timeYear": 453,
+    "time": 448,
+    "timeDay": 249,
+    "timeWeek": 352,
+    "timeMonth": 409,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   }
 ]
